@@ -1,0 +1,16 @@
+C:\Users\somar\git\flow\src\main\java\com\flow\application\Application.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\AbstractEntity.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\Company.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\CompanyRepository.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\Contact.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\ContactRepository.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\Status.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\data\StatusRepository.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\security\SecurityConfig.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\security\SecurityService.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\services\CrmService.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\views\DashboardView.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\views\list\ContactForm.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\views\list\ListView.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\views\LoginView.java
+C:\Users\somar\git\flow\src\main\java\com\flow\application\views\MainLayout.java

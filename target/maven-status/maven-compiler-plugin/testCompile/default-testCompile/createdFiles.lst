@@ -1,0 +1,4 @@
+com\flow\application\it\elements\LoginViewElement.class
+com\flow\application\views\list\ListViewTest.class
+com\flow\application\views\list\ContactFormTest.class
+com\flow\application\it\LoginE2ETest.class
